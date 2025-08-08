@@ -1,0 +1,1 @@
+npx @modelcontextprotocol/inspector --cli dotnet run --method tools/list
