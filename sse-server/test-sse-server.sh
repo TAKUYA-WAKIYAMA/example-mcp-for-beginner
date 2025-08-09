@@ -1,0 +1,1 @@
+npx @modelcontextprotocol/inspector --cli http://localhost:3001/sse --method tools/list
