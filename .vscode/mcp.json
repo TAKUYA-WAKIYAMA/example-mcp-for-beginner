@@ -1,0 +1,16 @@
+{
+    "inputs": [],
+    "servers": {
+        "mcp-calc": {
+            "command": "docker",
+            "args": [
+              "run",
+              "--rm",
+              "-i",
+              "wakya/mcp-calculator"
+            ],
+            "envFile": "",
+            "env": {}
+          }
+    }
+}
